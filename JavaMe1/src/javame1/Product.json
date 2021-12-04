@@ -1,0 +1,43 @@
+[
+    {
+        "idProduct": 1,
+        "name": "Apricot"
+    },
+    {
+        "idProduct": 2,
+        "name": "Banans"
+    },
+    {
+        "idProduct": 3,
+        "name": "Doughnut"
+    },
+    {
+        "idProduct": 4,
+        "name": "Flour"
+    },
+    {
+        "idProduct": 5,
+        "name": "Grape"
+    },
+    {
+        "idProduct": 6,
+        "name": "Gruel"
+    },
+    {
+        "idProduct": 7,
+        "name": "Jelly"
+    },
+    {
+        "idProduct": 8,
+        "name": "Kiwi"
+    },
+    {
+        "idProduct": 9,
+        "name": "Lobster"
+    },
+    {
+        "idProduct": 10,
+        "name": "Mango"
+    }
+]
+

@@ -1,0 +1,142 @@
+[
+    {
+        "idSales": 1040,
+        "idSeller": 123,
+        "idProduct": 6,
+        "quantityGoodsSold": 7,
+        "dateSale": "11.12.2020"
+    },
+    {
+        "idSales": 1053,
+        "idSeller": 231,
+        "idProduct": 5,
+        "quantityGoodsSold": 10,
+        "dateSale": "11.12.2020"
+    },
+    {
+        "idSales": 1690,
+        "idSeller": 123,
+        "idProduct": 6,
+        "quantityGoodsSold": 6,
+        "dateSale": "11.12.2020"
+    },
+    {
+        "idSales": 1918,
+        "idSeller": 231,
+        "idProduct": 10,
+        "quantityGoodsSold": 20,
+        "dateSale": "11.12.2020"
+    },
+    {
+        "idSales": 2097,
+        "idSeller": 345,
+        "idProduct": 5,
+        "quantityGoodsSold": 8,
+        "dateSale": "05.02.2020"
+    },
+    {
+        "idSales": 2665,
+        "idSeller": 456,
+        "idProduct": 2,
+        "quantityGoodsSold": 19,
+        "dateSale": "05.02.2020"
+    },
+    {
+        "idSales": 2976,
+        "idSeller": 345,
+        "idProduct": 9,
+        "quantityGoodsSold": 9,
+        "dateSale": "05.02.2020"
+    },
+    {
+        "idSales": 3157,
+        "idSeller": 456,
+        "idProduct": 5,
+        "quantityGoodsSold": 4,
+        "dateSale": "05.02.2020"
+    },
+    {
+        "idSales": 3171,
+        "idSeller": 567,
+        "idProduct": 4,
+        "quantityGoodsSold": 2,
+        "dateSale": "09.09.2020"
+    },
+    {
+        "idSales": 3388,
+        "idSeller": 678,
+        "idProduct": 1,
+        "quantityGoodsSold": 0,
+        "dateSale": "09.09.2020"
+    },
+    {
+        "idSales": 3416,
+        "idSeller": 567,
+        "idProduct": 7,
+        "quantityGoodsSold": 5,
+        "dateSale": "09.09.2020"
+    },
+    {
+        "idSales": 3723,
+        "idSeller": 678,
+        "idProduct": 3,
+        "quantityGoodsSold": 7,
+        "dateSale": "09.09.2020"
+    },
+    {
+        "idSales": 3900,
+        "idSeller": 789,
+        "idProduct": 4,
+        "quantityGoodsSold": 30,
+        "dateSale": "24.07.2020"
+    },
+    {
+        "idSales": 4314,
+        "idSeller": 898,
+        "idProduct": 1,
+        "quantityGoodsSold": 10,
+        "dateSale": "24.07.2020"
+    },
+    {
+        "idSales": 4598,
+        "idSeller": 789,
+        "idProduct": 9,
+        "quantityGoodsSold": 20,
+        "dateSale": "24.07.2020"
+    },
+    {
+        "idSales": 4599,
+        "idSeller": 898,
+        "idProduct": 6,
+        "quantityGoodsSold": 12,
+        "dateSale": "24.07.2020"
+    },
+    {
+        "idSales": 4907,
+        "idSeller": 965,
+        "idProduct": 2,
+        "quantityGoodsSold": 12,
+        "dateSale": "01.10.2020"
+    },
+    {
+        "idSales": 5054,
+        "idSeller": 977,
+        "idProduct": 7,
+        "quantityGoodsSold": 6,
+        "dateSale": "01.10.2020"
+    },
+    {
+        "idSales": 5082,
+        "idSeller": 965,
+        "idProduct": 6,
+        "quantityGoodsSold": 22,
+        "dateSale": "01.10.2020"
+    },
+    {
+        "idSales": 5227,
+        "idSeller": 977,
+        "idProduct": 10,
+        "quantityGoodsSold": 15,
+        "dateSale": "01.10.2020"
+    }
+]

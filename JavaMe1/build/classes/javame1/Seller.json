@@ -1,0 +1,52 @@
+[
+    {
+        "idSeller": 123,
+        "lastName": "Adams",
+        "firstName": "Adam"
+    },
+    {
+        "idSeller": 231,
+        "lastName": "Bailey",
+        "firstName": "Alex"
+    },
+    {
+        "idSeller": 345,
+        "lastName": "Brooks",
+        "firstName": "Archie"
+    },
+    {
+        "idSeller": 456,
+        "lastName": "Chapman",
+        "firstName": "Charles"
+    },
+    {
+        "idSeller": 567,
+        "lastName": "Collins",
+        "firstName": "David"
+    },
+    {
+        "idSeller": 678,
+        "lastName": "Evans",
+        "firstName": "Dylan"
+    },
+    {
+        "idSeller": 789,
+        "lastName": "Fisher",
+        "firstName": "Evan"
+    },
+    {
+        "idSeller": 898,
+        "lastName": "Flores",
+        "firstName": "Freddie"
+    },
+    {
+        "idSeller": 965,
+        "lastName": "Gilmore",
+        "firstName": "George"
+    },
+    {
+        "idSeller": 977,
+        "lastName": "Patterson",
+        "firstName": "Jake"
+    }
+]

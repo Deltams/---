@@ -1,0 +1,182 @@
+[
+    {
+        "idSeller": 123,
+        "idProduct": 6,
+        "priceProduct": 414,
+        "quantityProduct": 17
+    },
+    {
+        "idSeller": 123,
+        "idProduct": 8,
+        "priceProduct": 245,
+        "quantityProduct": 37
+    },
+    {
+        "idSeller": 123,
+        "idProduct": 9,
+        "priceProduct": 226,
+        "quantityProduct": 12
+    },
+    {
+        "idSeller": 231,
+        "idProduct": 2,
+        "priceProduct": 986,
+        "quantityProduct": 19
+    },
+    {
+        "idSeller": 231,
+        "idProduct": 5,
+        "priceProduct": 558,
+        "quantityProduct": 23
+    },
+    {
+        "idSeller": 231,
+        "idProduct": 10,
+        "priceProduct": 765,
+        "quantityProduct": 38
+    },
+    {
+        "idSeller": 345,
+        "idProduct": 2,
+        "priceProduct": 886,
+        "quantityProduct": 5
+    },
+    {
+        "idSeller": 345,
+        "idProduct": 5,
+        "priceProduct": 843,
+        "quantityProduct": 18
+    },
+    {
+        "idSeller": 345,
+        "idProduct": 9,
+        "priceProduct": 171,
+        "quantityProduct": 39
+    },
+    {
+        "idSeller": 456,
+        "idProduct": 2,
+        "priceProduct": 332,
+        "quantityProduct": 49
+    },
+    {
+        "idSeller": 456,
+        "idProduct": 3,
+        "priceProduct": 609,
+        "quantityProduct": 22
+    },
+    {
+        "idSeller": 456,
+        "idProduct": 5,
+        "priceProduct": 157,
+        "quantityProduct": 4
+    },
+    {
+        "idSeller": 567,
+        "idProduct": 4,
+        "priceProduct": 710,
+        "quantityProduct": 3
+    },
+    {
+        "idSeller": 567,
+        "idProduct": 5,
+        "priceProduct": 529,
+        "quantityProduct": 33
+    },
+    {
+        "idSeller": 567,
+        "idProduct": 7,
+        "priceProduct": 712,
+        "quantityProduct": 9
+    },
+    {
+        "idSeller": 678,
+        "idProduct": 1,
+        "priceProduct": 803,
+        "quantityProduct": 0
+    },
+    {
+        "idSeller": 678,
+        "idProduct": 3,
+        "priceProduct": 443,
+        "quantityProduct": 47
+    },
+    {
+        "idSeller": 678,
+        "idProduct": 6,
+        "priceProduct": 880,
+        "quantityProduct": 10
+    },
+    {
+        "idSeller": 789,
+        "idProduct": 3,
+        "priceProduct": 101,
+        "quantityProduct": 14
+    },
+    {
+        "idSeller": 789,
+        "idProduct": 4,
+        "priceProduct": 189,
+        "quantityProduct": 46
+    },
+    {
+        "idSeller": 789,
+        "idProduct": 9,
+        "priceProduct": 298,
+        "quantityProduct": 40
+    },
+    {
+        "idSeller": 898,
+        "idProduct": 1,
+        "priceProduct": 719,
+        "quantityProduct": 20
+    },
+    {
+        "idSeller": 898,
+        "idProduct": 6,
+        "priceProduct": 676,
+        "quantityProduct": 42
+    },
+    {
+        "idSeller": 898,
+        "idProduct": 9,
+        "priceProduct": 346,
+        "quantityProduct": 13
+    },
+    {
+        "idSeller": 965,
+        "idProduct": 2,
+        "priceProduct": 271,
+        "quantityProduct": 34
+    },
+    {
+        "idSeller": 965,
+        "idProduct": 4,
+        "priceProduct": 274,
+        "quantityProduct": 25
+    },
+    {
+        "idSeller": 965,
+        "idProduct": 6,
+        "priceProduct": 700,
+        "quantityProduct": 32
+    },
+    {
+        "idSeller": 977,
+        "idProduct": 3,
+        "priceProduct": 507,
+        "quantityProduct": 44
+    },
+    {
+        "idSeller": 977,
+        "idProduct": 7,
+        "priceProduct": 669,
+        "quantityProduct": 26
+    },
+    {
+        "idSeller": 977,
+        "idProduct": 10,
+        "priceProduct": 472,
+        "quantityProduct": 21
+    }
+]
